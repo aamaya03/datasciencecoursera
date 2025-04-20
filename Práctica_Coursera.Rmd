@@ -1,0 +1,12 @@
+---
+title: "Práctica Coursera"
+author: "Alejandra Amaya"
+date: "2025-04-20"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Este es un archivo Markdown
